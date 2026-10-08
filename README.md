@@ -128,7 +128,6 @@ Building the future, one commit at a time.
 | 🎨 [Frontend Developer](engineering/engineering-frontend-developer.md) | React/Vue/Angular, UI implementation, performance | Modern web apps, pixel-perfect UIs, Core Web Vitals optimization |
 | 🏗️ [Backend Architect](engineering/engineering-backend-architect.md) | API design, database architecture, scalability | Server-side systems, microservices, cloud infrastructure |
 | 📱 [Mobile App Builder](engineering/engineering-mobile-app-builder.md) | iOS/Android, React Native, Flutter | Native and cross-platform mobile applications |
-| 🔐 [Mobile Security Engineer](engineering/engineering-mobile-security.md) | OWASP Mobile Top 10, MASVS, NIST mobile threats | iOS/Android security assessments, secure mobile SDLC, MASVS compliance |
 | 🤖 [AI Engineer](engineering/engineering-ai-engineer.md) | ML models, deployment, AI integration | Machine learning features, data pipelines, AI-powered apps |
 | 🚀 [DevOps Automator](engineering/engineering-devops-automator.md) | CI/CD, infrastructure automation, cloud ops | Pipeline development, deployment automation, monitoring |
 | 🌐 [Network Engineer](engineering/engineering-network-engineer.md) | Cisco IOS/IOS-XE, Juniper Junos, Palo Alto PAN-OS | Router/switch/firewall configuration, BGP/OSPF, ACLs, show-output troubleshooting |
@@ -338,6 +337,7 @@ Defending the stack — from secure-by-design architecture to breach response.
 | 🗡️ [Penetration Tester](security/security-penetration-tester.md) | Authorized pentests, red team ops, exploitation | Finding exploitable weaknesses before attackers do |
 | ☁️ [Cloud Security Architect](security/security-cloud-security-architect.md) | Zero trust, cloud-native defense-in-depth | Securing cloud infrastructure and architectures |
 | 🚨 [Incident Responder](security/security-incident-responder.md) | DFIR, breach investigation, threat containment | Active breaches, forensics, crisis response |
+| 🔐 [Mobile Security Engineer](engineering/engineering-mobile-security.md) | OWASP Mobile Top 10, MASVS, NIST mobile threats | iOS/Android security assessments, secure mobile SDLC, MASVS compliance |
 | 🔍 [Threat Intelligence Analyst](security/security-threat-intelligence-analyst.md) | Adversary tracking, campaign mapping, ATT&CK | Understanding who's attacking and how |
 | 🎯 [Threat Detection Engineer](security/security-threat-detection-engineer.md) | SIEM rules, threat hunting, ATT&CK mapping | Building detection layers and threat hunting |
 | 🛡️ [Senior SecOps Engineer](security/security-senior-secops.md) | Secrets scanning, secure-by-default submissions | Defensive code-level security on every change |
